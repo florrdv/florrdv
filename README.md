@@ -1,4 +1,4 @@
-![Tokyo](https://github.com/Florrdv/florrdv/blob/master/tokyo.jpg?raw=true)
+![Tokyo](https://github.com/Florrdv/florrdv/blob/master/tokyo-skyline.jpg?raw=true)
 ### Hey there 👋
 
 I'm Flor, a Belgian software developer focused on Rust, NodeJS and frontend web development.
