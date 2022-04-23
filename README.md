@@ -9,7 +9,7 @@
 
 ___
 
-Hey there! My name is Flor, a Belgian software engineer currently focused on building innovative experiences on web3 and reverse engineering.
+Hey there! My name is Flor, I'm a Belgian software engineer and startup founder currently focused on building innovative experiences on web3 and reverse engineering.
 
 ### Experience 🕵️‍♂️
 A large part of my career was focused developing state of the art community monetization and e-commerce automation products, for which performance and scaling are absolutely critical. Here's a few of the technologies I've gotten the chance to work on mastering over the years.
