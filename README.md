@@ -33,6 +33,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - ...
 
 #### Languages 🛠
+- Bash
 - C++
 - Go
 - HTML / CSS
