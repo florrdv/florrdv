@@ -19,10 +19,10 @@ A large part of my career was focused developing state of the art community mone
 - Backend development
 - Chatbot development
 - CI / CD
-- Community monetization
+- Community monetization platforms
 - Computer architecture design
 - Desktop app development
-- E-commerce automation
+- E-commerce automation software
 - Embedded hardware development
 - Frontend development
 - Mobile app development
