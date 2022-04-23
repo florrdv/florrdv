@@ -16,7 +16,7 @@ A large part of my career was focused developing state of the art community mone
 
 #### Fields 🏷
 - Backend development
-- Chatbots
+- Chatbot development
 - CI / CD
 - Community monetization
 - Computer architecture design
@@ -25,10 +25,10 @@ A large part of my career was focused developing state of the art community mone
 - Embedded hardware development
 - Frontend development
 - Mobile app development
-- Obfuscation
+- Code obfuscation
 - Reverse engineering
-- Smart contracts
-- Web scraping
+- Smart contract development
+- Web crawling
 - ...
 
 #### Languages 🛠
