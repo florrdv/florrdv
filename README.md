@@ -23,7 +23,7 @@ A large part of my career was focused developing state of the art community mone
 - Computer architecture design
 - Desktop app development
 - E-commerce automation software
-- Embedded hardware development
+- Embedded software development
 - Frontend development
 - Mobile app development
 - Code obfuscation
