@@ -14,6 +14,10 @@ Hey there! My name is Flor, I'm a Belgian software engineer and startup founder 
 ### Experience 🕵️‍♂️
 A large part of my career was focused on developing state-of-the-art community monetization and e-commerce automation products, for which performance and scaling are absolutely critical. Here's a few of the technologies I've gotten the chance to work on mastering over the years.
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 #### Fields 🏷
 - Artificial intelligence
 - Backend development
@@ -32,6 +36,9 @@ A large part of my career was focused on developing state-of-the-art community m
 - Web crawling
 - ...
 
+
+</td><td valign="top" width="33%">
+
 #### Languages 🛠
 - Bash
 - C++
@@ -45,6 +52,8 @@ A large part of my career was focused on developing state-of-the-art community m
 - WebAssembly
 - ...
 
+</td><td valign="top" width="34%">
+
 #### Frameworks 🧱
 - Actix.rs
 - Express.js
@@ -54,6 +63,9 @@ A large part of my career was focused on developing state-of-the-art community m
 - Vue.js
 - ...
 
+</td></tr>
+<tr><td valign="top" width="33%">
+
 #### Databases 🧬
 - CockroachDB
 - MongoDB
@@ -61,6 +73,8 @@ A large part of my career was focused on developing state-of-the-art community m
 - SQLite
 - ScyllaDB
 - ...
+
+</td><td valign="top" width="33%">
 
 #### Integrations 🔌
 - Cloudflare
@@ -76,6 +90,8 @@ A large part of my career was focused on developing state-of-the-art community m
 - Stripe
 - ...
 
+</td><td valign="top" width="33%">
+
 #### Technologies 📋
 - CircleCI
 - Docker
@@ -84,6 +100,9 @@ A large part of my career was focused on developing state-of-the-art community m
 - Github Actions
 - Travis CI
 - ...
-  
+
+</td></tr>
+</table>
+
 ### Stats (public) 📊
 [![Flor's github stats](https://github-readme-stats.vercel.app/api?username=florrdv&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/florrdv)
