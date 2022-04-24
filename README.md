@@ -23,6 +23,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - Backend development
 - Chatbot development
 - CI / CD
+- Code obfuscation
 - Community monetization platforms
 - Computer architecture design
 - Desktop app development
@@ -30,7 +31,6 @@ A large part of my career was focused on developing state-of-the-art community m
 - Embedded software development
 - Frontend development
 - Mobile app development
-- Code obfuscation
 - Reverse engineering
 - Smart contract development
 - Web crawling
@@ -67,11 +67,12 @@ A large part of my career was focused on developing state-of-the-art community m
 <tr><td valign="top" width="33%">
 
 #### Databases 🧬
+- Cassandra
 - CockroachDB
 - MongoDB
 - MySQL
-- SQLite
 - ScyllaDB
+- SQLite
 - ...
 
 </td><td valign="top" width="33%">
@@ -84,6 +85,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - GitHub
 - Google Chrome
 - Near
+- SendGrid
 - Shopify
 - Slack
 - Solana
@@ -98,6 +100,8 @@ A large part of my career was focused on developing state-of-the-art community m
 - Electron
 - Faktory
 - Github Actions
+- Kubernetes
+- Serverless
 - Travis CI
 - ...
 
