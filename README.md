@@ -36,8 +36,8 @@ A large part of my career was focused on developing state-of-the-art community m
 - Web crawling
 - ...
 
-
-</td><td valign="top" width="33%">
+<img width="5000px"/>
+</td><td valign="top" width="34%">
 
 #### Languages 🛠
 - Bash
@@ -52,7 +52,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - WebAssembly
 - ...
 
-</td><td valign="top" width="34%">
+</td><td valign="top" width="33%">
 
 #### Frameworks 🧱
 - Actix.rs
@@ -75,7 +75,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - SQLite
 - ...
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
 #### Integrations 🔌
 - Cloudflare
@@ -108,5 +108,5 @@ A large part of my career was focused on developing state-of-the-art community m
 </td></tr>
 </table>
 
-### Stats (public) 📊
+### Stats 📊
 [![Flor's github stats](https://github-readme-stats.vercel.app/api?username=florrdv&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/florrdv)
