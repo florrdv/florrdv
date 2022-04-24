@@ -90,6 +90,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - Slack
 - Solana
 - Stripe
+- Twitter
 - ...
 
 </td><td valign="top" width="33%">
