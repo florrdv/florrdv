@@ -55,6 +55,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - ...
 
 #### Databases 🧬
+- Cassandra
 - CockroachDB
 - MongoDB
 - MySQL
@@ -70,6 +71,7 @@ A large part of my career was focused on developing state-of-the-art community m
 - GitHub
 - Google Chrome
 - Near
+- SendGrid
 - Shopify
 - Slack
 - Solana
