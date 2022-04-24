@@ -58,8 +58,8 @@ A large part of my career was focused on developing state-of-the-art community m
 - CockroachDB
 - MongoDB
 - MySQL
-- SQLite
 - ScyllaDB
+- SQLite
 - ...
 
 #### Integrations 🔌
